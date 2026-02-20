@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newcastleairport.xyz/sitemap.xml
